@@ -1,3 +1,6 @@
+* {
+  box-sizing: border-box;
+}
 body{
   margin: 0;
   padding: 0;
@@ -92,5 +95,5 @@ section .main .buttons button{
   outline: none;
 }
 section .main .buttons button .hover{
-  
+
 }
